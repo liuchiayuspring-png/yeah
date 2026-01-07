@@ -34,7 +34,7 @@ export const Header: React.FC = () => {
               Web Design
             </Link>
             
-            <button className="bg-olive-900 text-white px-6 py-2.5 rounded-full text-sm font-medium hover:bg-olive-800 transition-colors duration-200">
+            <button className="bg-orange-500 text-white px-6 py-2.5 rounded-full text-sm font-medium hover:bg-orange-600 transition-colors duration-200">
               Get Started
             </button>
           </div>
@@ -70,7 +70,7 @@ export const Header: React.FC = () => {
               Web Design
             </Link>
             <div className="pt-4">
-              <button className="w-full bg-olive-900 text-white px-6 py-3 rounded-full text-base font-medium hover:bg-olive-800 transition-colors">
+              <button className="w-full bg-orange-500 text-white px-6 py-3 rounded-full text-base font-medium hover:bg-orange-600 transition-colors">
                 Get Started
               </button>
             </div>
